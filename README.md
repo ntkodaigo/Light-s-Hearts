@@ -1,4 +1,4 @@
-# Light's Hearts
+# Light's Hearts - Videojuego 3D de acción en tercera persona
 
 Videojuego diseñado y desarrollado para el Segundo GameJam de Unity3D en español. "Muerte instantanea"
 
