@@ -1,4 +1,4 @@
-# Light-s-Hearts
+# Light's Hearts
 
 Videojuego diseñado y desarrollado para el Segundo GameJam de Unity3D en español. "Muerte instantanea"
 
