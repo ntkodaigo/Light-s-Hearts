@@ -11,6 +11,6 @@ Lista de mecanicas por implementar:
 
 Todos los Assets usados son gratuitos de la Asset Store de Unity.
 
-<< Diseñado y desarrollado por Enigma Studio - Estudiantes de la Universidad Continental de Perú. >>
+<< Diseñado y desarrollado por Enigma Studio. >>
 
 
